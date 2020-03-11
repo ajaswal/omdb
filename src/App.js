@@ -2,9 +2,9 @@ import React, { useState, useEffect, useContext, useReducer } from "react";
 import styled from "styled-components";
 
 import { GlobalProvider } from "./context/GlobalState";
-import Search from "./Search";
-import MovieList from "./MovieList";
-import MovieDetail from "./MovieDetail";
+import Search from "./components/Search";
+import MovieList from "./components/MovieList";
+import MovieDetail from "./components/MovieDetail";
 
 function App() {
   return (
