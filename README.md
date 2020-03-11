@@ -1,4 +1,4 @@
-##OMDB Sample code for the presentation.
+## OMDB Sample code for the presentation.
 
 Using OMDB API to build a sample app instead of a random TODO app to explain devs the usage of code and practices.
 
